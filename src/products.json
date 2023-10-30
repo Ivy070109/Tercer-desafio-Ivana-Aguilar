@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "producto prueba",
+        "description": "éste es el primer producto de prueba",
+        "price": 200,
+        "thumbnail": "sin imagen",
+        "code": "abc123",
+        "stock": 25
+    },
+    {
+        "id": 2,
+        "title": "producto1",
+        "description": "Éste es el segundo producto de prueba",
+        "price": 500,
+        "thumbnail": "sin imagen",
+        "code": "abc124",
+        "stock": 45
+    },
+    {
+        "id": 3,
+        "title": "product2",
+        "description": "éste es el tercer producto de prueba",
+        "price": 800,
+        "thumbnail": "sin imagen",
+        "code": "abc129",
+        "stock": 62
+    },
+    {
+        "id": 4,
+        "title": "producto rosa",
+        "description": "Producto de prueba para las modificaciones",
+        "price": 2800,
+        "thumbnail": "sin imagen",
+        "code": "abdf1855",
+        "stock": 25
+    },
+    {
+        "id": 5,
+        "title": "product4",
+        "description": "éste es el quinto producto de prueba",
+        "price": 745,
+        "thumbnail": "sin imagen",
+        "code": "abc126",
+        "stock": 98
+    },
+    {
+        "id": 6,
+        "title": "product5",
+        "description": "éste es el sexto producto de prueba",
+        "price": 5745,
+        "thumbnail": "sin imagen",
+        "code": "abc12f",
+        "stock": 63
+    },
+    {
+        "id": 7,
+        "title": "product6",
+        "description": "éste es el séptimo producto de prueba",
+        "price": 8123,
+        "thumbnail": "sin imagen",
+        "code": "abc12c",
+        "stock": 898
+    },
+    {
+        "id": 8,
+        "title": "product7",
+        "description": "éste es el octavo producto de prueba",
+        "price": 9895,
+        "thumbnail": "sin imagen",
+        "code": "abc871",
+        "stock": 68
+    },
+    {
+      "id": 9,
+      "title": "product8",
+      "description": "éste es el noveno producto de prueba",
+      "price": 336,
+      "thumbnail": "sin imagen",
+      "code": "abce52",
+      "stock": 22
+    },
+    {
+        "id": 10,
+        "title": "product9",
+        "description": "éste es el décimo producto de prueba",
+        "price": 7482,
+        "thumbnail": "sin imagen",
+        "code": "abd826",
+        "stock": 99
+    }
+]
