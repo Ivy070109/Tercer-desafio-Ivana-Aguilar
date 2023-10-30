@@ -1,5 +1,5 @@
 import express from 'express'
-import { ProductManager } from './ProductManager.js'
+import ProductManager from './ProductManager.js'
 
 const app = express()
 const PORT = 8080
@@ -14,7 +14,6 @@ app.get('/products', async (req, res) => {
     if (!limit) {
         return res.send(await manager.readProducts())
     }
-
     const allProducts = await manager.readProducts()
     const productsLimit = allProducts.slice(0, limit)
 

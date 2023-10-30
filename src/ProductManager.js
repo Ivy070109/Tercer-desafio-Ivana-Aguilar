@@ -1,6 +1,6 @@
 import fs from 'fs'
 
-export class ProductManager {
+class ProductManager {
     static id = 0
 
     constructor(path) {
@@ -164,3 +164,4 @@ products.updateProducts({
     //eliminar productos 
 //products.deleteProductById(6)
 
+export default ProductManager
